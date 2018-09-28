@@ -155,3 +155,8 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+#codestyles dir removed
+codestyles/
+codestyles/*
+codestyles
